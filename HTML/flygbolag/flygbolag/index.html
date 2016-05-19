@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="style/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            
+        </header>
+        <article>
+            <h2>Sök resa här:</h2>
+            <form>
+                Resa Från:
+                <input type"text" name"frånstad" list="from">
+                <datalist id="from">
+                    <option value="Stockholm, Sverige" />
+                    <option value="Helsingborg, Sverige" />
+                    <option value="Landskrona, Sverige" />
+                </datalist>
+                Resa till:
+                <input type"text" name"till stad" list="till">
+                <datalist id="till">
+                    <option value="Göteborg, Sverige" />
+                    <option value="Ystad, Sverige" />
+                    <option value="Svalöv, Sverige" />
+                    <br />
+                </datalist>
+                Vuxna
+              <select name="Vuxna"> 
+                  <option value="1">1 </option>
+                  <option value="2">1</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                   </select>
+                Barn
+                <select name="Barn">
+                    <option value="1">1 </option>
+                    <option value="2" >1</option>
+                    <option value="3">3</option>
+                    <option value="4" >4</option>
+                    <option value="5" >5</option>
+                    <option value="6" >6</option>
+                    <option value="7" >7</option>
+                    <option value="8" >8</option>
+                    
+                    </select>
+                <br />
+                Startresa:
+                <input type="date" />
+                Hemresa:
+                <input type="date" />
+
+                FlygKlass:
+                <select>
+                    <option>--Select</option>
+                    <option>Budget</option>
+                    <option>Ekonomi</option>
+                    <option>Busines</option>
+                </select>
+                Flygbolag:
+                <select>
+                    <option>Flygbolag</option>
+                    <option>Wingfire</option>
+                    <option>Dragonplane</option>
+                    <option>Firebirds</option>
+                    <option>krushplane</option>
+                    <option>Freesky</option>
+                    <option>Premiumplane</option>
+                    <option>Maycrashplanes</option>
+
+                </select>
+                <br />
+                <div id="marg">
+                    Enkelresa
+                    <input type="checkbox" name="Enkelresa" />
+                    Hemresa från ort:
+                    <input type="checkbox" name="Hemresa från ort" />
+                    <br />
+                    Direktflyg:
+                    <input type="checkbox" name="Direktflyg" />
+                    flexiblet:
+                    <input type="checkbox" name="Sök flexiblet" />
+               
+                 </div>
+                    <div id="skicka">
+                    <input type="submit" name="submit" value="skicka"/>
+                </div>
+               
+            </form>
+        </article>
+        <aside>
+            Reklam
+        </aside>
+        <footer>
+            <address>
+                Flyg hit
+                komigen
+                &copy; 2016
+            </address>
+        </footer>
+    </div>
+</body>
+</html>
