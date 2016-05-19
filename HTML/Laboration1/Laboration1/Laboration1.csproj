@@ -94,7 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="How i did it.html" />
+    <Content Include="pages\How i did it.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -113,10 +113,10 @@
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
-    <Content Include="svartahål.html" />
-    <Content Include="tellus.html" />
-    <Content Include="universum.html" />
-    <Content Include="Video.html" />
+    <Content Include="pages\svartahål.html" />
+    <Content Include="pages\tellus.html" />
+    <Content Include="pages\universum.html" />
+    <Content Include="pages\Video.html" />
     <Content Include="Video\Maldive3.mp4" />
     <Content Include="Video\NeonHeart-EndlessGrace.mp3" />
     <Content Include="Web.config" />
