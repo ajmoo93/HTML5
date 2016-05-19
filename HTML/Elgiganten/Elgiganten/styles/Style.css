@@ -1,0 +1,56 @@
+﻿body {
+    background-color: white;
+}
+
+#wrapper{
+    border: 5px solid white;
+    max-width: 1250px;
+    min-height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-image: url('../images/header.PNG');
+    background-color: lightgreen;
+    width: 1250px;
+    height: 110px;
+    
+}
+
+
+ul{
+ background-color: lightgrey;
+ width: 250px;
+ height: 400px;
+ list-style: none;
+ 
+}
+li{
+    border: 2px solid black;
+    padding: 10px;
+    font-weight:bold;
+    font-size: 30px;
+}
+
+article {
+    background-image: url('../images/Tvannons.PNG');
+    background-color: red;
+    width: 1040px;
+    height: 400px;
+    float: right;
+    margin: 15px;
+}
+
+aside {
+    background-image: url('../images/vannons - kopia - kopia - kopia.PNG');
+    background-color: greenyellow;
+    width: 1250px;
+    height: 200px;
+    clear: both;
+}
+footer{
+    background-color: blue;
+    width: 1250px;
+    height: 50px;
+    
+}
