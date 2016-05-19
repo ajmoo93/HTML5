@@ -31,3 +31,36 @@ c:\users\ajmoo93\documents\visual studio 2015\Projects\Elgiganten\Elgiganten\bin
 c:\users\ajmoo93\documents\visual studio 2015\Projects\Elgiganten\Elgiganten\obj\Debug\Elgiganten.csprojResolveAssemblyReference.cache
 c:\users\ajmoo93\documents\visual studio 2015\Projects\Elgiganten\Elgiganten\obj\Debug\Elgiganten.dll
 c:\users\ajmoo93\documents\visual studio 2015\Projects\Elgiganten\Elgiganten\obj\Debug\Elgiganten.pdb
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\ApplicationInsights.config
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\csc.exe
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\vbc.exe
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\VBCSCompiler.exe
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Elgiganten.dll.config
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Elgiganten.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Elgiganten.pdb
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.Web.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.Web.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\obj\Debug\Elgiganten.csprojResolveAssemblyReference.cache
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\obj\Debug\Elgiganten.dll
+C:\Users\hogan\Source\Repos\HTML5\HTML\Elgiganten\Elgiganten\obj\Debug\Elgiganten.pdb

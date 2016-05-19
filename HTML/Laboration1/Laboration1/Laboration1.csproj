@@ -94,9 +94,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\bomåne.PNG" />
+    <Content Include="images\huas4.PNG" />
+    <Content Include="images\hus2.PNG" />
+    <Content Include="images\hus3.PNG" />
+    <Content Include="images\hus5.PNG" />
+    <Content Include="images\hus6.PNG" />
+    <Content Include="images\måne.PNG" />
     <Content Include="images\planeter.PNG" />
     <Content Include="images\Skärmklipp.PNG" />
     <Content Include="images\universum.PNG" />
+    <Content Include="pages\Erbjudanden.html" />
     <Content Include="pages\How i did it.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -111,12 +119,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="pages\Login.html" />
+    <Content Include="pages\recip.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="pages\svartahål.html" />
     <Content Include="pages\tellus.html" />
     <Content Include="pages\universum.html" />
     <Content Include="pages\Video.html" />
+    <Content Include="Style\Styles.css" />
     <Content Include="Video\Maldive3.mp4" />
     <Content Include="Video\NeonHeart-EndlessGrace.mp3" />
     <Content Include="Web.config" />

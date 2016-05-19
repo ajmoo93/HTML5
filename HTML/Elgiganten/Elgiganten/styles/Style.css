@@ -21,7 +21,7 @@ header {
 ul{
  background-color: lightgrey;
  width: 250px;
- height: 400px;
+ height: 380px;
  list-style: none;
  
 }
@@ -30,7 +30,7 @@ li{
     padding: 10px;
     font-weight:bold;
     font-size: 30px;
-}
+} 
 
 article {
     background-image: url('../images/Tvannons.PNG');
