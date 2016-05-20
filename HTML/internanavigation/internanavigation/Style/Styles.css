@@ -1,0 +1,31 @@
+﻿body {
+    background-color: red;
+}
+#moving{
+    border-radius: 30%/20%;
+    border: 3px solid black;
+    background-color: hotpink;
+    width: 160px;
+    position:fixed;
+    right: 50px;
+    bottom: 10px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    border: 1px solid black;
+    background-color: gold;
+    width:60%;
+    list-style:none;
+    position:relative;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    
+}
+li a{
+    text-decoration:none;
+    text-transform: uppercase;
+    color: black;
+}
