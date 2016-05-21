@@ -94,6 +94,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\planeter.PNG" />
+    <Content Include="images\Skärmklipp.PNG" />
+    <Content Include="images\universum.PNG" />
+    <Content Include="pages\How i did it.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -106,9 +110,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="images\planeter.PNG" />
-    <Content Include="images\Skärmklipp.PNG" />
-    <Content Include="images\universum.PNG" />
     <Content Include="index.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
