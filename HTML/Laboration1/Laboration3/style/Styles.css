@@ -1,7 +1,7 @@
 ﻿body {
     background-color: gainsboro;
     margin:auto;
-    width:70%;
+    width:80%;
     clear:both;
 }
 a{
@@ -14,8 +14,8 @@ a:hover, a:active{
 
 }
 .mainheader nav{
-    background-color:aliceblue;
-    height:80px;
+    background-color:red;
+    height:40px;
     border-radius:5px;
 }
 .mainheader nav ul{
@@ -28,12 +28,50 @@ a:hover, a:active{
     display:inline;
 }
 .mainheader nav a:link, .mainheader nav a:visited {
-        color: white;
+        color: black;
         display: inline-block;
         padding: 5px 25px;
-        
+        height: 20px;
     }
-.mainheader nav a:hover, 
+.mainheader nav a:hover, .mainheader nav a:active, .mainheader nav .active a:link, .mainheader nav .active a:visited{
+background-color: azure;
+text-shadow: none;
+}
+/*.maincontent{
+    line-height:25px;
+    border-radius:5px;
+
+}*/
+
+.toparticle{
+    width:50%;
+    background-color:white;
+    border-radius: 5px;
+    padding:5% 5%;
+    margin-top:5px;
+}
+.topside{
+    
+    border-color: white;
+    float:left;
+   width:20%;
+   
+}
+.middleside{
+    
+    border-color: white;
+    float:left;
+    
+}
+.bottomside{
+    border-color: white;
+    float:left;
+    
+}
+.footer{
+    background-color: white;
+    clear:both;
+}
 /*@media screen and (max-width: 959px){
     #header{
         width:100%;
