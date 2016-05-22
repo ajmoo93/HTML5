@@ -1,0 +1,64 @@
+﻿body {
+    background-color: gainsboro;
+    margin:auto;
+    width:70%;
+    clear:both;
+}
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+
+}
+a:hover, a:active{
+
+}
+.mainheader nav{
+    background-color:aliceblue;
+    height:80px;
+    border-radius:5px;
+}
+.mainheader nav ul{
+    list-style:none;
+    margin:auto;
+
+}
+.mainheader nav ul li{
+    float:left;
+    display:inline;
+}
+.mainheader nav a:link, .mainheader nav a:visited {
+        color: white;
+        display: inline-block;
+        padding: 5px 25px;
+        
+    }
+.mainheader nav a:hover, 
+/*@media screen and (max-width: 959px){
+    #header{
+        width:100%;
+}
+    #article{
+        width:70%;
+    }
+   #footer{
+        width:30%;
+    }
+    img{
+        width:100%;
+    }
+}
+/*640px är för telefoner source command kan läsa tydligare och pattern kollummerna blir bättre*/
+/*@media screen and (max-width: 640px) {
+    #article{
+        width:100%;
+    }
+    #footer{
+        width:100%;
+    }
+}
+@media screen and (max-width: 959px) {
+    #header{
+        width:320px;
+    }
+}*/*/
