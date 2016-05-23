@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hemsidatest", "..\Hemsidate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "internanavigation", "..\internanavigation\internanavigation\internanavigation.csproj", "{81DCE8BF-FC56-47DC-B7B3-738F11DBA9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboration3", "Laboration3\Laboration3.csproj", "{2F3C8E4B-7373-4EBF-96B6-530B1E3427DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{81DCE8BF-FC56-47DC-B7B3-738F11DBA9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81DCE8BF-FC56-47DC-B7B3-738F11DBA9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81DCE8BF-FC56-47DC-B7B3-738F11DBA9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3C8E4B-7373-4EBF-96B6-530B1E3427DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3C8E4B-7373-4EBF-96B6-530B1E3427DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3C8E4B-7373-4EBF-96B6-530B1E3427DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3C8E4B-7373-4EBF-96B6-530B1E3427DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
