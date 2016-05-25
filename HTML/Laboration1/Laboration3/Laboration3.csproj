@@ -94,6 +94,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\bild1.jpg" />
+    <Content Include="images\bild2.jpg" />
+    <Content Include="images\bild3.jpg" />
+    <Content Include="images\bild4.jpg" />
+    <Content Include="images\flowa2.PNG" />
+    <Content Include="images\flowa3.PNG" />
+    <Content Include="images\flowaPNG.PNG" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -107,22 +114,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="pages\Contact.html" />
     <Content Include="pages\flip.html" />
     <Content Include="pages\phone.html" />
+    <Content Include="pages\Pictureaite.html" />
     <Content Include="pages\responsive.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="style\Demo.css" />
     <Content Include="style\flip.css" />
+    <Content Include="style\pic.css" />
     <Content Include="style\Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="images\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -1,7 +1,7 @@
 ﻿body {
     background-color: gainsboro;
     margin: auto;
-    width: 50%;
+    width: 65%;
     clear: both;
 }
 a {
@@ -93,7 +93,12 @@ a {
     .flip3D:hover #back {
         transform: perspective(600px) rotateY(0deg);
     }
-
+   .inner-first{
+       width:200px;
+   }
+   .first img{
+       width:935px;
+   }
 @media only screen and (max-width: 768px) {
     body {
         width: 95%;
@@ -110,7 +115,7 @@ a {
         }
 
             .mainheader nav ul li {
-                width: 95%;
+                width: 15%;
                 
                 
             }
@@ -122,6 +127,12 @@ a {
     .toparticle {
         width: 55%;
     }
+    .inner-first{
+       width:100px;
+   }
+   .first img{
+       width:768px;
+   }
 }
  @media only screen and (max-width: 480px) {
     body {
@@ -152,6 +163,15 @@ a {
         background-color:white;
         border-radius:5px;
     }
+    #toparticle img{
+        float:left;
+    }
+    .inner-first{
+       width:100px;
+   }
+   .first img{
+       width:480px;
+   }
 }
 
 
