@@ -1,8 +1,16 @@
 ﻿body {
     background-color: gainsboro;
     margin: auto;
-    width: 65%;
+    width: 50%;
     clear: both;
+}
+#wrapper{
+    width:100%;
+    border-radius: 10px;
+    border:solid;
+    border-color:white;
+    
+
 }
 a {
     text-decoration: none;
@@ -41,9 +49,10 @@ a {
         text-shadow: none;
     }
     .toparticle {
-        width: 50%;
+        width: 60%;
         border-radius: 5px;
         background-color:white;
+        
     }
 
 #footer{
@@ -99,6 +108,7 @@ a {
    .first img{
        width:935px;
    }
+
 @media only screen and (max-width: 768px) {
     body {
         width: 95%;
