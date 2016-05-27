@@ -105,7 +105,6 @@
     <Content Include="images\Skärmklipp.PNG" />
     <Content Include="images\universum.PNG" />
     <Content Include="pages\Erbjudanden.html" />
-    <Content Include="pages\How i did it.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
