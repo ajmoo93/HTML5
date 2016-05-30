@@ -107,6 +107,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="pages\newphone.html" />
     <Content Include="scripts\jquery-1.9.1.js" />
     <Content Include="scripts\jquery-1.9.1.min.js" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
@@ -127,6 +128,7 @@
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="style\Demo.css" />
     <Content Include="style\flip.css" />
+    <Content Include="style\newphonetest.css" />
     <Content Include="style\pic.css" />
     <Content Include="style\Styles.css" />
     <Content Include="Web.config" />

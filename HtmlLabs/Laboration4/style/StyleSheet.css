@@ -21,6 +21,9 @@
 }
 .canvas {
     background-image: url('../images/aquarrium.PNG');
+    width:700px;
+     height:350px;
+     border:1px solid #808080;
 }
 #canvis{
     width:150px;
