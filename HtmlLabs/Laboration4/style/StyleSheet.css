@@ -19,8 +19,10 @@
 
 
 }
-.container1{
-   
+.jumbotron{
+    background-color:aqua;
+    margin-top: 100px;
+    height:400px;
 }
 /*.jumbotron img{
     width: 400px;

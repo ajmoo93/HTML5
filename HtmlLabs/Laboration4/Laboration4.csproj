@@ -118,6 +118,9 @@
     <Content Include="images\Maldives1.jpg" />
     <Content Include="images\maldives2.PNG" />
     <Content Include="images\maldives25.png" />
+    <Content Include="images\mat1.PNG" />
+    <Content Include="images\mat3.PNG" />
+    <Content Include="images\ppl.PNG" />
     <Content Include="images\water.PNG" />
     <Content Include="images\water1.PNG" />
     <Content Include="images\water2.PNG" />
@@ -128,6 +131,7 @@
     </Content>
     <Content Include="pages\booking.html" />
     <Content Include="pages\diving.html" />
+    <Content Include="pages\Fun.html" />
     <Content Include="pages\hotel.html" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
