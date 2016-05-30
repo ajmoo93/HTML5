@@ -96,6 +96,7 @@
   <ItemGroup>
     <Content Include="images\8772022_122_z.jpg" />
     <Content Include="images\airport.PNG" />
+    <Content Include="images\aquarrium.PNG" />
     <Content Include="images\Baarah1.PNG" />
     <Content Include="images\Baarahbe.PNG" />
     <Content Include="images\Baarahhous1.PNG" />
@@ -104,6 +105,7 @@
     <Content Include="images\carousel1.jpg" />
     <Content Include="images\carousel2.jpg" />
     <Content Include="images\carousel3.jpg" />
+    <Content Include="images\Diver.png" />
     <Content Include="images\diving.PNG" />
     <Content Include="images\Ha. Baarah.jpg" />
     <Content Include="images\hotel1.PNG" />
@@ -120,6 +122,7 @@
     <Content Include="images\maldives25.png" />
     <Content Include="images\mat1.PNG" />
     <Content Include="images\mat3.PNG" />
+    <Content Include="images\moray1.png" />
     <Content Include="images\ppl.PNG" />
     <Content Include="images\water.PNG" />
     <Content Include="images\water1.PNG" />
