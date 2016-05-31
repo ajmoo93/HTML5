@@ -94,6 +94,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\20pics\bild10h.PNG" />
+    <Content Include="images\20pics\bild1h.PNG" />
+    <Content Include="images\20pics\bild2h.PNG" />
+    <Content Include="images\20pics\bild3h.PNG" />
+    <Content Include="images\20pics\bild4h.PNG" />
+    <Content Include="images\20pics\bild5h.PNG" />
+    <Content Include="images\20pics\bild6h.PNG" />
+    <Content Include="images\20pics\bild7h.PNG" />
+    <Content Include="images\20pics\bild8h.PNG" />
+    <Content Include="images\20pics\bild9h.PNG" />
     <Content Include="images\8772022_122_z.jpg" />
     <Content Include="images\airport.PNG" />
     <Content Include="images\aquarrium.PNG" />
@@ -139,6 +149,7 @@
     <Content Include="pages\diving.html" />
     <Content Include="pages\Fun.html" />
     <Content Include="pages\hotel.html" />
+    <Content Include="pages\pics.html" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -178,6 +189,7 @@
     <Content Include="scripts\bootstrap.min.js" />
     <Content Include="scripts\jquery-1.9.1.js" />
     <Content Include="scripts\jquery-1.9.1.min.js" />
+    <Content Include="style\pics.css" />
     <Content Include="style\StyleSheet.css" />
     <Content Include="Web.config" />
   </ItemGroup>
