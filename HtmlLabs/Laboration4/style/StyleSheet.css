@@ -19,10 +19,54 @@
 
 
 }
-.jumbotron{
-    background-color:aqua;
-    margin-top: 100px;
-    height:400px;
+.canvas {
+    background-image: url('../images/aquarrium.PNG');
+    width:700px;
+     height:350px;
+     border:1px solid #808080;
+}
+#canvis{
+    width:150px;
+    height:150px;
+    
+    position:relative;
+    animation-name:example;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+}
+@keyframes example {
+    0% {
+        
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 0px;
+    }
+    25% {
+        
+        background-image: url('../images/moray1.png');
+        left: 200px;
+        top: 0px;
+    }
+    50% {
+        background-image: url('../images/moray1.png');
+        left: 200px;
+        top: 200px;
+    }
+    75% {
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 200px;
+    }
+    100% {
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 0px;
+    }
+}
+#diver{
+    width:20px;
+    margin-bottom:0px;
+
 }
 /*.jumbotron img{
     width: 400px;
