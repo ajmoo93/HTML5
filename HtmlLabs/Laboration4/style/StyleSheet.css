@@ -13,11 +13,8 @@
 }
 .carousel {
     width: 100%;
-   
     align-self:center;
     color:white;
-
-
 }
 .canvas {
     background-image: url('../images/aquarrium.PNG');
