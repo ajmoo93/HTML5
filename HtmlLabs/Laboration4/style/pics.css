@@ -1,0 +1,190 @@
+﻿body {
+    padding-top: 70px;
+    padding-bottom:70px;
+    background-color:gainsboro;
+}
+.navbar-text > a{
+    color:inherit;
+    text-decoration:none;
+}
+.modal-body{
+    text-decoration:none;
+    text-align:center;
+}
+.carousel {
+    width: 100%;
+   
+    align-self:center;
+    color:white;
+
+
+}
+.canvas {
+    background-image: url('../images/aquarrium.PNG');
+    width:700px;
+     height:350px;
+     border:1px solid #808080;
+}
+#canvis{
+    width:150px;
+    height:150px;
+    
+    position:relative;
+    animation-name:example;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+}
+@keyframes example {
+    0% {
+        
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 0px;
+    }
+    25% {
+        
+        background-image: url('../images/moray1.png');
+        left: 200px;
+        top: 0px;
+    }
+    50% {
+        background-image: url('../images/moray1.png');
+        left: 200px;
+        top: 200px;
+    }
+    75% {
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 200px;
+    }
+    100% {
+        background-image: url('../images/moray1.png');
+        left: 0px;
+        top: 0px;
+    }
+}
+#diver{
+    width:20px;
+    margin-bottom:0px;
+
+}
+body {
+    background-color: gainsboro;
+}
+/*yttre containern som håller storleken*/
+.album_container {
+    position: relative;
+    margin: 10px auto;
+    width: 200px;
+    height: 200px;
+    perspective: 1000px;
+}
+
+.picture {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    transform-style: preserve-3d;
+    transition: all 1.3s ease-in-out;
+}
+
+.front {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    backface-visibility: hidden;
+    transform: rotateY(0deg);
+}
+
+.back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility:hidden;
+    transform: rotateY(180deg);
+    padding: 10px;
+    color: #aaa;
+    background-color: white;
+}
+.ett .album_container:hover .picture{
+    transform:rotateY(180deg);
+}
+
+/*.jumbotron img{
+    width: 400px;
+    height: 300px;
+}*/
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'PT Sans', sans-serif;
+}
+.navbar-default{
+    background-color:aqua;
+    border-color:azure;
+    color:aquamarine;
+}
+.navba-default .navbar-brand{
+    color:aquamarine;
+}
+.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand:focus{
+    color:white;
+
+}
+.navbar-default .navbar-nav > li > a{
+    color:cornflowerblue;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+    color:cornflowerblue;
+    background-color:aquamarine;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus{
+    color:antiquewhite;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus{
+    background-color:aquamarine;
+    color:antiquewhite;
+}
+.btn-default{
+    background-color:aquamarine;
+       border-color: aqua;
+       color: white;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default:active,
+.open .dropdown-toggle.btn-default{
+    background-color:aqua;
+    border-color:aquamarine;
+    color:white;
+}
+.home-thumb{
+    width:280px;
+}
+.home-thumb img:hover{
+    transform: scale(1.1);
+
+}
+.home-thumb img{
+    transition: all 0.3s ease 0s;
+    width:100%;
+}
+.home-thumb{
+    overflow:hidden;
+}
+/*.btn-primary{
+    background-color:aqua;
+    border-color:aquamarine;
+    color:aliceblue;
+}*/
