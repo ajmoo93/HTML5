@@ -1,0 +1,110 @@
+﻿body {
+}
+#knapp1 {
+    margin-left: 13%;
+    margin-top: 1%;
+    border: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: silver;
+    width: 5%;
+    height: 2%;
+}
+
+#mobilram {
+    border: 2px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: silver;
+    width: 325px;
+    height: 600px;
+    background-color: white;
+}
+
+#kamera {
+    border: 6px;
+    border-style: solid;
+    border-radius: 100%;
+    width: 1px;
+    height: 1px;
+    margin-top: 5%;
+    margin-left: 45%;
+}
+
+#hogtalare {
+    border: 1px;
+    border-style: solid;
+    border-radius: 25%;
+    width: 50px;
+    height: 4px;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+
+#sencor {
+    border-style: solid;
+    border-radius: 100%;
+    width: 1px;
+    height: 1px;
+    margin-top: 10px;
+    margin-left: 35%;
+}
+
+#skarmram {
+    border: 1px;
+    border-style: solid;
+    border-radius: 2%;
+    margin: auto;
+    width: 280px;
+    height: 460px;
+    border-color: black;
+}
+#skarmram img{
+    width: 279px;
+    height:459px;
+    border-radius:2%;
+    overflow:hidden;
+}
+.box div {
+    float: left;
+    border: 1px;
+    border-style: solid;
+    border-radius: 30%;
+    width: 45px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+#homeknapp {
+    border: 1px;
+    border-style: solid;
+    border-radius: 100%;
+    width: 18%;
+    height: 9%;
+    margin: auto;
+    margin-top: 1%;
+}
+
+#topmenu{
+    background-color:black;
+    border-top-right-radius:5px;
+    border-top-left-radius:5px;
+    color:white;
+    margin-left:5px,
+    
+}
+.topmenu2{
+    width: 20px;
+    height:40px;
+    border-radius:5px;
+    background-color:pink;
+    
+}
+.undertext{
+    word-spacing: 10px;
+    text-transform: lowercase;
+}
