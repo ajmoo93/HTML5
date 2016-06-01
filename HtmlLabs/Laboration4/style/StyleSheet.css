@@ -16,58 +16,71 @@
     align-self:center;
     color:white;
 }
-.canvas {
-    background-image: url('../images/aquarrium.PNG');
-    width:700px;
-     height:350px;
-     border:1px solid #808080;
-}
-#canvis{
-    width:150px;
-    height:150px;
-    
-    position:relative;
-    animation-name:example;
-    animation-duration:5s;
-    animation-iteration-count:infinite;
-}
 .container1{
     margin:20px;
 }
-@keyframes example {
+
+#canvis {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    
+    animation-name: black;
+    /*animation-duration: 5s;*/
+    animation: muray 5s infinite;
+}
+#mcanvas {
+     width:1200px;
+     height:500px;
+     border:1px solid #808080;
+     background-color:aqua;
+     
+}
+#pic1{
+  position: fixed;
+  top: 25%;
+  left: 30%;
+}
+#pic2{
+  position: fixed;
+  top: 60%;
+  left: 30%;
+}
+#pic3{
+  position: fixed;
+  top: 25%;
+  left: 50%;
+}
+@keyframes muray {
     0% {
         
-        background-image: url('../images/moray1.png');
         left: 0px;
-        top: 0px;
+        top: 200px;
     }
     25% {
         
-        background-image: url('../images/moray1.png');
-        left: 200px;
-        top: 0px;
-    }
-    50% {
-        background-image: url('../images/moray1.png');
         left: 200px;
         top: 200px;
     }
+    50% {
+        
+        left: 200px;
+        top: 400px;
+    }
     75% {
-        background-image: url('../images/moray1.png');
-        left: 0px;
+        
+        left: 200px;
         top: 200px;
     }
     100% {
-        background-image: url('../images/moray1.png');
+       
         left: 0px;
-        top: 0px;
+        top: 200px;
     }
 }
-#diver{
-    width:20px;
-    margin-bottom:0px;
 
-}
+
+
 /*.jumbotron img{
     width: 400px;
     height: 300px;
